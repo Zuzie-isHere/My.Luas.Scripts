@@ -1,7 +1,7 @@
 
 
 ```javascript
-### Hello, I'm Zuzie & Axeline.
+Hello, I'm Zuzie & Axeline.
 
 Here, I will place the Lua scripts that I create periodically—not all of them, just some when I want.
 
