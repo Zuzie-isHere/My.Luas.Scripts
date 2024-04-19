@@ -1,10 +1,4 @@
-[TOC]
-
-### Themes
-
-#### Setting
-
-configs:
+da:
 
 ```javascript
 {
@@ -21,7 +15,7 @@ configs:
 }
 ```
 
-functions:
+das:
 
 ```javascript
 editor.setTheme('theme-name');
