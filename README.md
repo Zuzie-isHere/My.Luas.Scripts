@@ -1,6 +1,4 @@
-```
 
-das:
 
 ```javascript
 editor.setTheme('theme-name');
