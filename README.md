@@ -10,6 +10,8 @@ My social networks:
 - **Discord:** iloveduck_s1
 - **YouTube:** [Zuzie-IsHere](https://www.youtube.com/@Zuzie-IsHere)
 - **VK:** [zuzie](https://vk.com/zuzie)
+  - [VK](https://vk.com/zuzie) (click here to visit my VK profile)
+  - [YouTube](https://www.youtube.com/@Zuzie-IsHere) (click here to visit my YouTube channel)
 
 ```
 
